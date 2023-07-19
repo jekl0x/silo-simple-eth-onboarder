@@ -44,5 +44,5 @@ export const ABOUTLINKS = {
   github: "https://github.com/SiloHaus/",
   githubOnboarder: "https://github.com/silohaus/simple-eth-yeeter",
   logo_url: "https://media.discordapp.net/attachments/1126954803847770122/1131050067642564639/Silo_Logo_02_Ring.png",
-  hero: "https://media.discordapp.net/attachments/839168503927799808/1130942613248282796/SiloHaus_social.png?width=810&height=425"
+  hero: "https://cdn.discordapp.com/attachments/1126954803847770122/1131080965763125298/SiloHaus_Banner_3-1.png"
 };
